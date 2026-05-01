@@ -140,7 +140,7 @@ abhi14324.github.io/
 
 ## 📄 Resume
 
-📥 [Download Resume](https://abhi14324.github.io/assets/resume.pdf)
+📥 [Download Resume](https://github.com/abhi14324/data-analyst-portfolio/tree/main//assets/resume.pdf)
 
 ---
 
