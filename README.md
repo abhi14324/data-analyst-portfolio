@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my data analytics projects, skills, certifications, and experience.
 
-[![Live Website](https://img.shields.io/badge/🔗_Live_Website-Visit_Portfolio-00d4ff?style=for-the-badge)](https://abhi14324.github.io)
+[![Live Website](https://img.shields.io/badge/🔗_Live_Website-Visit_Portfolio-00d4ff?style=for-the-badge)](https://abhi14324.github.io/data-analyst-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhishek-kumar-a53b46309)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/abhi14324)
 
@@ -18,7 +18,7 @@ I focus on solving real-world business problems by transforming raw data into ac
 
 ## 🚀 Live Website
 
-🔗 **[https://abhi14324.github.io](https://abhi14324.github.io)**
+🔗 **[https://abhi14324.github.io](https://abhi14324.github.io/data-analyst-portfolio/)**
 
 ---
 
